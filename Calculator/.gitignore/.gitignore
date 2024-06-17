@@ -1,0 +1,10 @@
+# Ignore vscode folder
+.vscode
+# Ignore bin files
+bin
+
+# Ignore lib directories
+lib
+
+# Ignore macOS system files
+.DS_Store
