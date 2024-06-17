@@ -17,7 +17,7 @@ public class Calculator {
     return a * b;
     }
 
-    public double Division (double a, double b){
+    public double division (double a, double b){
     
     return a / b;
     }
